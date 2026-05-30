@@ -1,0 +1,13 @@
+control_id,dimension,affected_items,defect_rate_pct,evidence_status,severity,control_score,recommended_action,owner
+CTL006,Direct deposit qualification,15,7.6,Partial,Medium,25.5,Escalate before release,Pricing analytics
+CTL005,Debit transaction eligibility,15,9.1,Partial,Low,30.1,Escalate before release,Servicing enablement
+CTL001,Benefit tier calculation,9,2.2,Partial,High,36.7,Escalate before release,Technology
+CTL010,Risk approval evidence,10,6.5,Partial,Medium,37.0,Escalate before release,Deposit product
+CTL002,Combined balance feed,11,11.7,Complete,Medium,41.4,Escalate before release,Deposit product
+CTL004,Reward redemption mapping,8,4.7,Partial,Medium,44.7,Escalate before release,Distribution
+CTL008,Complaint taxonomy,7,0.0,Partial,High,45.4,Escalate before release,Pricing analytics
+CTL011,Channel training document,14,4.2,Complete,Medium,53.1,Escalate before release,Pricing analytics
+CTL009,Legal disclosure version,7,3.9,Partial,Low,56.5,Remediate this sprint,Pricing analytics
+CTL003,APY comparison table,12,3.3,Complete,Medium,58.9,Remediate this sprint,Pricing analytics
+CTL007,Campaign suppression logic,11,0.2,Complete,Medium,67.6,Remediate this sprint,Marketing
+CTL012,UAT traceability,11,1.9,Complete,Low,71.8,Remediate this sprint,Servicing enablement

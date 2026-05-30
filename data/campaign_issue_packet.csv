@@ -1,0 +1,31 @@
+campaign_id,linked_cohort,objective,channel,eligible_accounts,expected_lift_pct,suppression_rate_pct,complaint_driver,enablement_doc,compliance_status,launch_readiness,decision,owner
+CMP019,DPR042,Deepening,Debit merchant offer,7996,5.4,2.0,Fee waiver explanation,Complaint escalation checklist,Approved,90.7,Launch,Distribution
+CMP029,DPR003,Servicing education,Email,6866,5.9,9.8,Benefit level confusion,Rewards eligibility guide,Approved,90.4,Launch,Distribution
+CMP028,DPR002,Retention,Paid search,10191,5.7,7.2,Fee waiver explanation,Pricing exception playbook,Approved,88.7,Launch,Marketing
+CMP009,DPR044,Deepening,Mobile app,2449,7.3,15.9,Fee waiver explanation,Pricing exception playbook,Approved,86.2,Launch,Deposit product
+CMP022,DPR001,Acquisition,Email,9126,5.1,18.1,Debit offer eligibility,Pricing exception playbook,Approved,85.6,Launch,Distribution
+CMP025,DPR035,Deepening,Paid search,10574,4.7,4.7,Debit offer eligibility,Pricing exception playbook,Approved,85.4,Launch,Deposit product
+CMP013,DPR010,Debit engagement,Paid search,7795,4.9,9.5,Fee waiver explanation,Benefit level FAQ,Approved,85.3,Launch,Marketing
+CMP011,DPR030,Retention,Paid search,2542,5.8,15.1,Fee waiver explanation,Pricing exception playbook,Approved,83.9,Launch,Marketing
+CMP012,DPR038,Deepening,Debit merchant offer,1249,4.0,13.0,Benefit level confusion,Benefit level FAQ,Approved,83.0,Launch,Marketing
+CMP020,DPR016,Deepening,Mobile app,8745,4.9,12.7,Direct deposit qualification,Direct deposit talking points,Approved,82.9,Launch,Deposit product
+CMP005,DPR019,Acquisition,Branch prompt,9011,3.3,6.1,Direct deposit qualification,Complaint escalation checklist,Approved,82.3,Launch,Deposit product
+CMP014,DPR039,Deepening,Contact center,5271,3.7,12.1,Fee waiver explanation,Direct deposit talking points,Approved,82.2,Launch,Distribution
+CMP002,DPR029,Debit engagement,Paid search,1397,3.2,16.4,Debit offer eligibility,Complaint escalation checklist,Approved,81.7,Launch,Distribution
+CMP023,DPR025,Acquisition,Mobile app,4766,4.6,22.6,Rate comparison question,Pricing exception playbook,Approved,81.6,Launch,Deposit product
+CMP001,DPR045,Debit engagement,Contact center,5573,5.6,16.6,Direct deposit qualification,Pricing exception playbook,Approved,81.4,Launch,Distribution
+CMP010,DPR023,Servicing education,Paid search,11414,4.7,3.2,Fee waiver explanation,Benefit level FAQ,Fairness review,81.1,Prepare for next cycle,Deposit product
+CMP021,DPR020,Acquisition,Mobile app,3802,3.5,14.3,Fee waiver explanation,Benefit level FAQ,Approved,79.1,Launch,Deposit product
+CMP008,DPR014,Deepening,Branch prompt,4145,5.9,18.4,Fee waiver explanation,Benefit level FAQ,Disclosure copy review,76.6,Prepare for next cycle,Servicing enablement
+CMP030,DPR022,Deepening,Email,10303,4.3,11.5,Fee waiver explanation,Benefit level FAQ,Disclosure copy review,74.8,Prepare for next cycle,Deposit product
+CMP026,DPR013,Deepening,Branch prompt,4003,5.5,20.8,Rate comparison question,Rewards eligibility guide,Disclosure copy review,73.0,Prepare for next cycle,Marketing
+CMP004,DPR011,Deepening,Debit merchant offer,8603,3.9,10.9,Fee waiver explanation,Rewards eligibility guide,Fairness review,72.8,Prepare for next cycle,Deposit product
+CMP027,DPR033,Deepening,Email,6602,2.7,9.6,Benefit level confusion,Direct deposit talking points,Risk exception review,71.6,Prepare for next cycle,Distribution
+CMP024,DPR028,Deepening,Contact center,4952,4.7,18.5,Rate comparison question,Rewards eligibility guide,Disclosure copy review,71.5,Prepare for next cycle,Marketing
+CMP006,DPR047,Acquisition,Mobile app,7285,3.7,14.3,Fee waiver explanation,Pricing exception playbook,Fairness review,71.2,Prepare for next cycle,Marketing
+CMP018,DPR005,Deepening,Branch prompt,1595,5.7,20.7,Reward redemption confusion,Complaint escalation checklist,Risk exception review,71.0,Prepare for next cycle,Marketing
+CMP007,DPR043,Acquisition,Mobile app,9327,3.5,15.4,Benefit level confusion,Pricing exception playbook,Disclosure copy review,70.1,Prepare for next cycle,Marketing
+CMP003,DPR026,Deepening,Mobile app,8994,3.6,14.6,Fee waiver explanation,Benefit level FAQ,Disclosure copy review,69.6,Prepare for next cycle,Distribution
+CMP015,DPR004,Deepening,Debit merchant offer,2916,4.8,24.1,Rate comparison question,Rewards eligibility guide,Fairness review,69.4,Prepare for next cycle,Distribution
+CMP016,DPR027,Servicing education,Contact center,5447,1.5,14.9,Reward redemption confusion,Benefit level FAQ,Disclosure copy review,68.7,Prepare for next cycle,Marketing
+CMP017,DPR009,Debit engagement,Branch prompt,2502,3.7,8.1,Direct deposit qualification,Rewards eligibility guide,Blocked,67.6,Do not launch,Deposit product

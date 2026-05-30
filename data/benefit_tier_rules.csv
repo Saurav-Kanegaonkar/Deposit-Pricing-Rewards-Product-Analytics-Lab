@@ -1,0 +1,6 @@
+tier,min_balance,max_balance,loyalty_bonus_pct,atm_waivers,pos_limit,primary_message
+Level 1,0,9999,10,0,3000,Starter relationship value
+Level 2,10000,24999,20,1,3000,First balance milestone
+Level 3,25000,49999,30,3,3000,Deepening opportunity
+Level 4,50000,99999,40,5,3000,High-balance retention
+Premier,100000,500000,50,99,25000,Premium relationship protection
