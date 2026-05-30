@@ -1,0 +1,26 @@
+entity_id,entity_name,segment,priority_score,avg_risk_score,avg_quality_score,estimated_impact
+DEP003,Deposit segment 3,Strategic,102.28,50.6,80.8,907249
+DEP014,Deposit segment 14,Core,100.56,52.8,80.9,863888
+DEP001,Deposit segment 1,Core,96.58,52.9,81.6,810920
+DEP018,Deposit segment 18,Watch,96.28,46.0,81.0,863131
+DEP028,Deposit segment 28,Strategic,91.51,54.3,79.8,719342
+DEP023,Deposit segment 23,Watch,91.03,48.5,79.7,762922
+DEP008,Deposit segment 8,Core,90.83,50.2,80.0,746123
+DEP011,Deposit segment 11,Growth,90.31,51.3,80.7,732493
+DEP019,Deposit segment 19,Watch,89.02,51.2,80.6,715150
+DEP022,Deposit segment 22,Strategic,85.17,48.2,80.7,687684
+DEP016,Deposit segment 16,Watch,81.43,52.3,81.1,600967
+DEP017,Deposit segment 17,Core,81.33,50.6,80.0,609647
+DEP036,Deposit segment 36,Watch,79.70,52.1,80.0,574155
+DEP027,Deposit segment 27,Watch,78.71,51.4,80.2,567213
+DEP013,Deposit segment 13,Core,77.84,51.1,80.7,559912
+DEP012,Deposit segment 12,Strategic,76.89,49.2,80.7,562966
+DEP015,Deposit segment 15,Strategic,76.26,50.4,80.9,544729
+DEP009,Deposit segment 9,Watch,75.89,50.1,80.5,540109
+DEP021,Deposit segment 21,Core,74.92,51.7,80.5,512656
+DEP030,Deposit segment 30,Strategic,73.83,49.5,80.2,514946
+DEP031,Deposit segment 31,Core,73.44,52.0,80.2,488071
+DEP025,Deposit segment 25,Growth,73.20,52.1,81.9,491325
+DEP006,Deposit segment 6,Watch,72.83,53.6,81.4,471145
+DEP005,Deposit segment 5,Watch,72.29,48.0,80.2,506789
+DEP007,Deposit segment 7,Core,71.85,49.4,79.8,486556
